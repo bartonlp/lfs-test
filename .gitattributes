@@ -1,4 +1,4 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
 *.JPG filter=lfs diff=lfs merge=lfs -text
 P1010001.JPG filter=lfs diff=lfs merge=lfs -text
 Snowman1.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
